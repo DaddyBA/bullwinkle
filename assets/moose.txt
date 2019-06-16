@@ -1,3 +1,7 @@
 **Hello World!**
 
-Uh Jee Rocky, I don't think anyone is here 
+-Bullwinkle: Uh Jee Rocky, I don't think anyone is here 
+
+Hey Rocky, I cannot open the door to get my changes back to GIThub. 
+
+-Rocky: It's a Pull Request, not a Push that you need to merge it into the master branch. 
